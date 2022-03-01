@@ -10,7 +10,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: Parameter is a placeholder. The argument is the value of that parameter.
 
 
 
@@ -18,7 +18,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: .map creates an array of the same length, iterates across each element in array. value, index, array are the parameters. Required - value; optional - index, array
 
 
 
@@ -26,7 +26,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: map iterate across array, same length, will update each element in original. filter will loop through array. If condition is not fulfilled by the element, it will be removed.
 
 
 
@@ -34,7 +34,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: Function is a standalone and can be called. Method needs to be embedded in code to be defined. It is the function of an object. 
 
 
 
@@ -42,7 +42,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: Alternate way of assigning variables. Objects have mutliple properties and can be assigned to different variables.
 
 
 
@@ -50,7 +50,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: Places all declared variables to the top of the file. 
 
 
 
@@ -58,12 +58,12 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 Research and define the following terms to the best of your ability.
 
-1. Class Inheritance:
+1. Class Inheritance: Inherit properties from other classes
 
-2. React:
+2. React: Javascript libray to build user interfaces, open source, free
 
-3. React state:
+3. React state: object that contains data about the component, determines how that object renders and behaves
 
-4. React lifecycle methods:
+4. React lifecycle methods: mounting, update, unmounting
 
-5. DOM:
+5. DOM: Document Object Model, structure of HTML displayed on the webpage
